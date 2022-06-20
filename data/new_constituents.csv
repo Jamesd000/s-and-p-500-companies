@@ -1,0 +1,505 @@
+Symbol,Name,Sector,cap,Country,IPO,Year,Sector,Industry
+MMM,3M,Industrials,cap,Country,IPO,Year,Sector,Industry
+AOS,A. O. Smith,Industrials,cap,Country,IPO,Year,Sector,Industry
+ABT,Abbott,Health Care,cap,Country,IPO,Year,Sector,Industry
+ABBV,AbbVie,Health Care,cap,Country,IPO,Year,Sector,Industry
+ABMD,Abiomed,Health Care,cap,Country,IPO,Year,Sector,Industry
+ACN,Accenture,Information Technology,cap,Country,IPO,Year,Sector,Industry
+ATVI,Activision Blizzard,Communication Services,cap,Country,IPO,Year,Sector,Industry
+ADM,ADM,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+ADBE,Adobe,Information Technology,cap,Country,IPO,Year,Sector,Industry
+ADP,ADP,Information Technology,cap,Country,IPO,Year,Sector,Industry
+AAP,Advance Auto Parts,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+AES,AES,Utilities,cap,Country,IPO,Year,Sector,Industry
+AFL,Aflac,Financials,cap,Country,IPO,Year,Sector,Industry
+A,Agilent Technologies,Health Care,cap,Country,IPO,Year,Sector,Industry
+AIG,AIG,Financials,cap,Country,IPO,Year,Sector,Industry
+APD,Air Products,Materials,cap,Country,IPO,Year,Sector,Industry
+AKAM,Akamai,Information Technology,cap,Country,IPO,Year,Sector,Industry
+ALK,Alaska Air Group,Industrials,cap,Country,IPO,Year,Sector,Industry
+ALB,Albemarle,Materials,cap,Country,IPO,Year,Sector,Industry
+ARE,Alexandria,Real Estate,cap,Country,IPO,Year,Sector,Industry
+ALGN,Align,Health Care,cap,Country,IPO,Year,Sector,Industry
+ALLE,Allegion,Industrials,cap,Country,IPO,Year,Sector,Industry
+LNT,Alliant Energy,Utilities,cap,Country,IPO,Year,Sector,Industry
+ALL,Allstate,Financials,cap,Country,IPO,Year,Sector,Industry
+GOOGL,Alphabet (Class A),Communication Services,cap,Country,IPO,Year,Sector,Industry
+GOOG,Alphabet (Class C),Communication Services,cap,Country,IPO,Year,Sector,Industry
+MO,Altria,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+AMZN,Amazon,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+AMCR,Amcor,Materials,cap,Country,IPO,Year,Sector,Industry
+AMD,AMD,Information Technology,cap,Country,IPO,Year,Sector,Industry
+AEE,Ameren,Utilities,cap,Country,IPO,Year,Sector,Industry
+AAL,American Airlines Group,Industrials,cap,Country,IPO,Year,Sector,Industry
+AEP,American Electric Power,Utilities,cap,Country,IPO,Year,Sector,Industry
+AXP,American Express,Financials,cap,Country,IPO,Year,Sector,Industry
+AMT,American Tower,Real Estate,cap,Country,IPO,Year,Sector,Industry
+AWK,American Water,Utilities,cap,Country,IPO,Year,Sector,Industry
+AMP,Ameriprise Financial,Financials,cap,Country,IPO,Year,Sector,Industry
+ABC,AmerisourceBergen,Health Care,cap,Country,IPO,Year,Sector,Industry
+AME,Ametek,Industrials,cap,Country,IPO,Year,Sector,Industry
+AMGN,Amgen,Health Care,cap,Country,IPO,Year,Sector,Industry
+APH,Amphenol,Information Technology,cap,Country,IPO,Year,Sector,Industry
+ADI,Analog Devices,Information Technology,cap,Country,IPO,Year,Sector,Industry
+ANSS,Ansys,Information Technology,cap,Country,IPO,Year,Sector,Industry
+ANTM,Anthem,Health Care,cap,Country,IPO,Year,Sector,Industry
+AON,Aon,Financials,cap,Country,IPO,Year,Sector,Industry
+APA,APA Corporation,Energy,cap,Country,IPO,Year,Sector,Industry
+AAPL,Apple,Information Technology,cap,Country,IPO,Year,Sector,Industry
+AMAT,Applied Materials,Information Technology,cap,Country,IPO,Year,Sector,Industry
+APTV,Aptiv,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+ANET,Arista,Information Technology,cap,Country,IPO,Year,Sector,Industry
+AIZ,Assurant,Financials,cap,Country,IPO,Year,Sector,Industry
+T,AT&T,Communication Services,cap,Country,IPO,Year,Sector,Industry
+ATO,Atmos Energy,Utilities,cap,Country,IPO,Year,Sector,Industry
+ADSK,Autodesk,Information Technology,cap,Country,IPO,Year,Sector,Industry
+AZO,AutoZone,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+AVB,AvalonBay Communities,Real Estate,cap,Country,IPO,Year,Sector,Industry
+AVY,Avery Dennison,Materials,cap,Country,IPO,Year,Sector,Industry
+BKR,Baker Hughes,Energy,cap,Country,IPO,Year,Sector,Industry
+BALL,Ball,Materials,cap,Country,IPO,Year,Sector,Industry
+BAC,Bank of America,Financials,cap,Country,IPO,Year,Sector,Industry
+BBWI,Bath & Body Works,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+BAX,Baxter,Health Care,cap,Country,IPO,Year,Sector,Industry
+BDX,Becton Dickinson,Health Care,cap,Country,IPO,Year,Sector,Industry
+WRB,Berkley,Financials,cap,Country,IPO,Year,Sector,Industry
+BRK.B,Berkshire Hathaway,Financials,cap,Country,IPO,Year,Sector,Industry
+BBY,Best Buy,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+BIO,Bio-Rad,Health Care,cap,Country,IPO,Year,Sector,Industry
+TECH,Bio-Techne,Health Care,cap,Country,IPO,Year,Sector,Industry
+BIIB,Biogen,Health Care,cap,Country,IPO,Year,Sector,Industry
+BLK,BlackRock,Financials,cap,Country,IPO,Year,Sector,Industry
+BK,BNY Mellon,Financials,cap,Country,IPO,Year,Sector,Industry
+BA,Boeing,Industrials,cap,Country,IPO,Year,Sector,Industry
+BKNG,Booking Holdings,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+BWA,BorgWarner,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+BXP,Boston Properties,Real Estate,cap,Country,IPO,Year,Sector,Industry
+BSX,Boston Scientific,Health Care,cap,Country,IPO,Year,Sector,Industry
+BMY,Bristol Myers Squibb,Health Care,cap,Country,IPO,Year,Sector,Industry
+AVGO,Broadcom,Information Technology,cap,Country,IPO,Year,Sector,Industry
+BR,Broadridge,Information Technology,cap,Country,IPO,Year,Sector,Industry
+BRO,Brown & Brown,Financials,cap,Country,IPO,Year,Sector,Industry
+BF.B,Brown–Forman,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+CHRW,C.H. Robinson,Industrials,cap,Country,IPO,Year,Sector,Industry
+CDNS,Cadence,Information Technology,cap,Country,IPO,Year,Sector,Industry
+CZR,Caesars Entertainment,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+CPT,Camden,Real Estate,cap,Country,IPO,Year,Sector,Industry
+CPB,Campbell's,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+COF,Capital One,Financials,cap,Country,IPO,Year,Sector,Industry
+CAH,Cardinal Health,Health Care,cap,Country,IPO,Year,Sector,Industry
+KMX,CarMax,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+CCL,Carnival,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+CARR,Carrier,Industrials,cap,Country,IPO,Year,Sector,Industry
+CTLT,Catalent,Health Care,cap,Country,IPO,Year,Sector,Industry
+CAT,Caterpillar,Industrials,cap,Country,IPO,Year,Sector,Industry
+CBOE,Cboe,Financials,cap,Country,IPO,Year,Sector,Industry
+CBRE,CBRE,Real Estate,cap,Country,IPO,Year,Sector,Industry
+CDW,CDW,Information Technology,cap,Country,IPO,Year,Sector,Industry
+CE,Celanese,Materials,cap,Country,IPO,Year,Sector,Industry
+CNC,Centene,Health Care,cap,Country,IPO,Year,Sector,Industry
+CNP,CenterPoint Energy,Utilities,cap,Country,IPO,Year,Sector,Industry
+CDAY,Ceridian,Information Technology,cap,Country,IPO,Year,Sector,Industry
+CF,CF Industries,Materials,cap,Country,IPO,Year,Sector,Industry
+CRL,Charles River,Health Care,cap,Country,IPO,Year,Sector,Industry
+SCHW,Charles Schwab,Financials,cap,Country,IPO,Year,Sector,Industry
+CHTR,Charter Communications,Communication Services,cap,Country,IPO,Year,Sector,Industry
+CVX,Chevron,Energy,cap,Country,IPO,Year,Sector,Industry
+CMG,Chipotle Mexican Grill,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+CB,Chubb,Financials,cap,Country,IPO,Year,Sector,Industry
+CHD,Church & Dwight,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+CI,Cigna,Health Care,cap,Country,IPO,Year,Sector,Industry
+CINF,Cincinnati Financial,Financials,cap,Country,IPO,Year,Sector,Industry
+CTAS,Cintas,Industrials,cap,Country,IPO,Year,Sector,Industry
+CSCO,Cisco,Information Technology,cap,Country,IPO,Year,Sector,Industry
+C,Citigroup,Financials,cap,Country,IPO,Year,Sector,Industry
+CFG,Citizens,Financials,cap,Country,IPO,Year,Sector,Industry
+CTXS,Citrix,Information Technology,cap,Country,IPO,Year,Sector,Industry
+CLX,Clorox,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+CME,CME Group,Financials,cap,Country,IPO,Year,Sector,Industry
+CMS,CMS Energy,Utilities,cap,Country,IPO,Year,Sector,Industry
+KO,Coca-Cola,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+CTSH,Cognizant,Information Technology,cap,Country,IPO,Year,Sector,Industry
+CL,Colgate-Palmolive,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+CMCSA,Comcast,Communication Services,cap,Country,IPO,Year,Sector,Industry
+CMA,Comerica,Financials,cap,Country,IPO,Year,Sector,Industry
+ED,Con Edison,Utilities,cap,Country,IPO,Year,Sector,Industry
+CAG,Conagra Brands,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+COP,ConocoPhillips,Energy,cap,Country,IPO,Year,Sector,Industry
+STZ,Constellation Brands,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+CEG,Constellation Energy,Utilities,cap,Country,IPO,Year,Sector,Industry
+COO,CooperCompanies,Health Care,cap,Country,IPO,Year,Sector,Industry
+CPRT,Copart,Industrials,cap,Country,IPO,Year,Sector,Industry
+GLW,Corning,Information Technology,cap,Country,IPO,Year,Sector,Industry
+CTVA,Corteva,Materials,cap,Country,IPO,Year,Sector,Industry
+COST,Costco,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+CTRA,Coterra,Energy,cap,Country,IPO,Year,Sector,Industry
+CCI,Crown Castle,Real Estate,cap,Country,IPO,Year,Sector,Industry
+CSX,CSX,Industrials,cap,Country,IPO,Year,Sector,Industry
+CMI,Cummins,Industrials,cap,Country,IPO,Year,Sector,Industry
+CVS,CVS Health,Health Care,cap,Country,IPO,Year,Sector,Industry
+DHI,D.R. Horton,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+DHR,Danaher,Health Care,cap,Country,IPO,Year,Sector,Industry
+DRI,Darden,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+DVA,DaVita,Health Care,cap,Country,IPO,Year,Sector,Industry
+DE,Deere & Co.,Industrials,cap,Country,IPO,Year,Sector,Industry
+DAL,Delta Air Lines,Industrials,cap,Country,IPO,Year,Sector,Industry
+XRAY,Dentsply Sirona,Health Care,cap,Country,IPO,Year,Sector,Industry
+DVN,Devon,Energy,cap,Country,IPO,Year,Sector,Industry
+DXCM,DexCom,Health Care,cap,Country,IPO,Year,Sector,Industry
+FANG,Diamondback,Energy,cap,Country,IPO,Year,Sector,Industry
+DLR,Digital Realty,Real Estate,cap,Country,IPO,Year,Sector,Industry
+DFS,Discover,Financials,cap,Country,IPO,Year,Sector,Industry
+DISH,Dish,Communication Services,cap,Country,IPO,Year,Sector,Industry
+DIS,Disney,Communication Services,cap,Country,IPO,Year,Sector,Industry
+DG,Dollar General,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+DLTR,Dollar Tree,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+D,Dominion Energy,Utilities,cap,Country,IPO,Year,Sector,Industry
+DPZ,Domino's,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+DOV,Dover,Industrials,cap,Country,IPO,Year,Sector,Industry
+DOW,Dow,Materials,cap,Country,IPO,Year,Sector,Industry
+DTE,DTE,Utilities,cap,Country,IPO,Year,Sector,Industry
+DUK,Duke Energy,Utilities,cap,Country,IPO,Year,Sector,Industry
+DRE,Duke Realty,Real Estate,cap,Country,IPO,Year,Sector,Industry
+DD,DuPont,Materials,cap,Country,IPO,Year,Sector,Industry
+DXC,DXC Technology,Information Technology,cap,Country,IPO,Year,Sector,Industry
+EMN,Eastman,Materials,cap,Country,IPO,Year,Sector,Industry
+ETN,Eaton,Industrials,cap,Country,IPO,Year,Sector,Industry
+EBAY,eBay,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+ECL,Ecolab,Materials,cap,Country,IPO,Year,Sector,Industry
+EIX,Edison International,Utilities,cap,Country,IPO,Year,Sector,Industry
+EW,Edwards Lifesciences,Health Care,cap,Country,IPO,Year,Sector,Industry
+EA,Electronic Arts,Communication Services,cap,Country,IPO,Year,Sector,Industry
+EMR,Emerson,Industrials,cap,Country,IPO,Year,Sector,Industry
+ENPH,Enphase,Information Technology,cap,Country,IPO,Year,Sector,Industry
+ETR,Entergy,Utilities,cap,Country,IPO,Year,Sector,Industry
+EOG,EOG Resources,Energy,cap,Country,IPO,Year,Sector,Industry
+EPAM,EPAM,Information Technology,cap,Country,IPO,Year,Sector,Industry
+EFX,Equifax,Industrials,cap,Country,IPO,Year,Sector,Industry
+EQIX,Equinix,Real Estate,cap,Country,IPO,Year,Sector,Industry
+EQR,Equity Residential,Real Estate,cap,Country,IPO,Year,Sector,Industry
+ESS,Essex,Real Estate,cap,Country,IPO,Year,Sector,Industry
+EL,Estée Lauder Companies,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+ETSY,Etsy,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+RE,Everest,Financials,cap,Country,IPO,Year,Sector,Industry
+EVRG,Evergy,Utilities,cap,Country,IPO,Year,Sector,Industry
+ES,Eversource,Utilities,cap,Country,IPO,Year,Sector,Industry
+EXC,Exelon,Utilities,cap,Country,IPO,Year,Sector,Industry
+EXPE,Expedia Group,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+EXPD,Expeditors,Industrials,cap,Country,IPO,Year,Sector,Industry
+EXR,Extra Space Storage,Real Estate,cap,Country,IPO,Year,Sector,Industry
+XOM,ExxonMobil,Energy,cap,Country,IPO,Year,Sector,Industry
+FFIV,F5,Information Technology,cap,Country,IPO,Year,Sector,Industry
+FDS,FactSet,Financials,cap,Country,IPO,Year,Sector,Industry
+FAST,Fastenal,Industrials,cap,Country,IPO,Year,Sector,Industry
+FRT,Federal Realty,Real Estate,cap,Country,IPO,Year,Sector,Industry
+FDX,FedEx,Industrials,cap,Country,IPO,Year,Sector,Industry
+FITB,Fifth Third Bank,Financials,cap,Country,IPO,Year,Sector,Industry
+FRC,First Republic,Financials,cap,Country,IPO,Year,Sector,Industry
+FE,FirstEnergy,Utilities,cap,Country,IPO,Year,Sector,Industry
+FIS,FIS,Information Technology,cap,Country,IPO,Year,Sector,Industry
+FISV,Fiserv,Information Technology,cap,Country,IPO,Year,Sector,Industry
+FLT,Fleetcor,Information Technology,cap,Country,IPO,Year,Sector,Industry
+FMC,FMC,Materials,cap,Country,IPO,Year,Sector,Industry
+F,Ford,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+FTNT,Fortinet,Information Technology,cap,Country,IPO,Year,Sector,Industry
+FTV,Fortive,Industrials,cap,Country,IPO,Year,Sector,Industry
+FBHS,Fortune Brands,Industrials,cap,Country,IPO,Year,Sector,Industry
+FOXA,Fox Corporation (Class A),Communication Services,cap,Country,IPO,Year,Sector,Industry
+FOX,Fox Corporation (Class B),Communication Services,cap,Country,IPO,Year,Sector,Industry
+BEN,Franklin Templeton,Financials,cap,Country,IPO,Year,Sector,Industry
+FCX,Freeport-McMoRan,Materials,cap,Country,IPO,Year,Sector,Industry
+AJG,Gallagher,Financials,cap,Country,IPO,Year,Sector,Industry
+GRMN,Garmin,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+IT,Gartner,Information Technology,cap,Country,IPO,Year,Sector,Industry
+GE,GE,Industrials,cap,Country,IPO,Year,Sector,Industry
+GNRC,Generac,Industrials,cap,Country,IPO,Year,Sector,Industry
+GD,General Dynamics,Industrials,cap,Country,IPO,Year,Sector,Industry
+GIS,General Mills,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+GPC,Genuine Parts,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+GILD,Gilead,Health Care,cap,Country,IPO,Year,Sector,Industry
+GPN,Global Payments,Information Technology,cap,Country,IPO,Year,Sector,Industry
+GL,Globe Life,Financials,cap,Country,IPO,Year,Sector,Industry
+GM,GM,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+GS,Goldman Sachs,Financials,cap,Country,IPO,Year,Sector,Industry
+GWW,Grainger,Industrials,cap,Country,IPO,Year,Sector,Industry
+HAL,Halliburton,Energy,cap,Country,IPO,Year,Sector,Industry
+HIG,Hartford (The),Financials,cap,Country,IPO,Year,Sector,Industry
+HAS,Hasbro,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+HCA,HCA Healthcare,Health Care,cap,Country,IPO,Year,Sector,Industry
+PEAK,Healthpeak,Real Estate,cap,Country,IPO,Year,Sector,Industry
+HSIC,Henry Schein,Health Care,cap,Country,IPO,Year,Sector,Industry
+HSY,Hershey's,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+HES,Hess,Energy,cap,Country,IPO,Year,Sector,Industry
+HPE,Hewlett Packard Enterprise,Information Technology,cap,Country,IPO,Year,Sector,Industry
+HLT,Hilton,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+HOLX,Hologic,Health Care,cap,Country,IPO,Year,Sector,Industry
+HD,Home Depot,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+HON,Honeywell,Industrials,cap,Country,IPO,Year,Sector,Industry
+HRL,Hormel,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+HST,Host Hotels & Resorts,Real Estate,cap,Country,IPO,Year,Sector,Industry
+HWM,Howmet Aerospace,Industrials,cap,Country,IPO,Year,Sector,Industry
+HPQ,HP,Information Technology,cap,Country,IPO,Year,Sector,Industry
+HUM,Humana,Health Care,cap,Country,IPO,Year,Sector,Industry
+HII,Huntington Ingalls Industries,Industrials,cap,Country,IPO,Year,Sector,Industry
+HBAN,Huntington National Bank,Financials,cap,Country,IPO,Year,Sector,Industry
+IBM,IBM,Information Technology,cap,Country,IPO,Year,Sector,Industry
+IEX,IDEX,Industrials,cap,Country,IPO,Year,Sector,Industry
+IDXX,Idexx Laboratories,Health Care,cap,Country,IPO,Year,Sector,Industry
+ITW,Illinois Tool Works,Industrials,cap,Country,IPO,Year,Sector,Industry
+ILMN,Illumina,Health Care,cap,Country,IPO,Year,Sector,Industry
+INCY,Incyte,Health Care,cap,Country,IPO,Year,Sector,Industry
+IR,Ingersoll Rand,Industrials,cap,Country,IPO,Year,Sector,Industry
+INTC,Intel,Information Technology,cap,Country,IPO,Year,Sector,Industry
+ICE,Intercontinental Exchange,Financials,cap,Country,IPO,Year,Sector,Industry
+IFF,International Flavors & Fragrances,Materials,cap,Country,IPO,Year,Sector,Industry
+IP,International Paper,Materials,cap,Country,IPO,Year,Sector,Industry
+IPG,Interpublic Group,Communication Services,cap,Country,IPO,Year,Sector,Industry
+INTU,Intuit,Information Technology,cap,Country,IPO,Year,Sector,Industry
+ISRG,Intuitive Surgical,Health Care,cap,Country,IPO,Year,Sector,Industry
+IVZ,Invesco,Financials,cap,Country,IPO,Year,Sector,Industry
+IPGP,IPG Photonics,Information Technology,cap,Country,IPO,Year,Sector,Industry
+IQV,IQVIA,Health Care,cap,Country,IPO,Year,Sector,Industry
+IRM,Iron Mountain,Real Estate,cap,Country,IPO,Year,Sector,Industry
+JBHT,J.B. Hunt,Industrials,cap,Country,IPO,Year,Sector,Industry
+JKHY,Jack Henry & Associates,Information Technology,cap,Country,IPO,Year,Sector,Industry
+J,Jacobs,Industrials,cap,Country,IPO,Year,Sector,Industry
+JNJ,Johnson & Johnson,Health Care,cap,Country,IPO,Year,Sector,Industry
+JCI,Johnson Controls,Industrials,cap,Country,IPO,Year,Sector,Industry
+JPM,JPMorgan Chase,Financials,cap,Country,IPO,Year,Sector,Industry
+JNPR,Juniper Networks,Information Technology,cap,Country,IPO,Year,Sector,Industry
+K,Kellogg's,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+KEY,KeyCorp,Financials,cap,Country,IPO,Year,Sector,Industry
+KEYS,Keysight,Information Technology,cap,Country,IPO,Year,Sector,Industry
+KMB,Kimberly-Clark,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+KIM,Kimco Realty,Real Estate,cap,Country,IPO,Year,Sector,Industry
+KMI,Kinder Morgan,Energy,cap,Country,IPO,Year,Sector,Industry
+KLAC,KLA,Information Technology,cap,Country,IPO,Year,Sector,Industry
+KHC,Kraft Heinz,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+KR,Kroger,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+LHX,L3Harris,Industrials,cap,Country,IPO,Year,Sector,Industry
+LH,LabCorp,Health Care,cap,Country,IPO,Year,Sector,Industry
+LRCX,Lam Research,Information Technology,cap,Country,IPO,Year,Sector,Industry
+LW,Lamb Weston,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+LVS,Las Vegas Sands,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+LDOS,Leidos,Industrials,cap,Country,IPO,Year,Sector,Industry
+LEN,Lennar,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+LLY,Lilly,Health Care,cap,Country,IPO,Year,Sector,Industry
+LNC,Lincoln Financial,Financials,cap,Country,IPO,Year,Sector,Industry
+LIN,Linde,Materials,cap,Country,IPO,Year,Sector,Industry
+LYV,Live Nation Entertainment,Communication Services,cap,Country,IPO,Year,Sector,Industry
+LKQ,LKQ Corporation,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+LMT,Lockheed Martin,Industrials,cap,Country,IPO,Year,Sector,Industry
+L,Loews Corporation,Financials,cap,Country,IPO,Year,Sector,Industry
+LOW,Lowe's,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+LUMN,Lumen,Communication Services,cap,Country,IPO,Year,Sector,Industry
+LYB,LyondellBasell,Materials,cap,Country,IPO,Year,Sector,Industry
+MTB,M&T Bank,Financials,cap,Country,IPO,Year,Sector,Industry
+MRO,Marathon Oil,Energy,cap,Country,IPO,Year,Sector,Industry
+MPC,Marathon Petroleum,Energy,cap,Country,IPO,Year,Sector,Industry
+MKTX,MarketAxess,Financials,cap,Country,IPO,Year,Sector,Industry
+MAR,Marriott International,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+MMC,Marsh & McLennan,Financials,cap,Country,IPO,Year,Sector,Industry
+MLM,Martin Marietta,Materials,cap,Country,IPO,Year,Sector,Industry
+MAS,Masco,Industrials,cap,Country,IPO,Year,Sector,Industry
+MA,Mastercard,Information Technology,cap,Country,IPO,Year,Sector,Industry
+MTCH,Match Group,Communication Services,cap,Country,IPO,Year,Sector,Industry
+MKC,McCormick,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+MCD,McDonald's,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+MCK,McKesson,Health Care,cap,Country,IPO,Year,Sector,Industry
+MDT,Medtronic,Health Care,cap,Country,IPO,Year,Sector,Industry
+MRK,Merck,Health Care,cap,Country,IPO,Year,Sector,Industry
+META,Meta,Communication Services,cap,Country,IPO,Year,Sector,Industry
+MET,MetLife,Financials,cap,Country,IPO,Year,Sector,Industry
+MTD,Mettler Toledo,Health Care,cap,Country,IPO,Year,Sector,Industry
+MGM,MGM Resorts,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+MCHP,Microchip,Information Technology,cap,Country,IPO,Year,Sector,Industry
+MU,Micron,Information Technology,cap,Country,IPO,Year,Sector,Industry
+MSFT,Microsoft,Information Technology,cap,Country,IPO,Year,Sector,Industry
+MAA,Mid-America Apartments,Real Estate,cap,Country,IPO,Year,Sector,Industry
+MRNA,Moderna,Health Care,cap,Country,IPO,Year,Sector,Industry
+MHK,Mohawk Industries,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+MOH,Molina Healthcare,Health Care,cap,Country,IPO,Year,Sector,Industry
+TAP,Molson Coors,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+MDLZ,Mondelez International,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+MPWR,Monolithic Power Systems,Information Technology,cap,Country,IPO,Year,Sector,Industry
+MNST,Monster Beverage,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+MCO,Moody's,Financials,cap,Country,IPO,Year,Sector,Industry
+MS,Morgan Stanley,Financials,cap,Country,IPO,Year,Sector,Industry
+MOS,Mosaic,Materials,cap,Country,IPO,Year,Sector,Industry
+MSI,Motorola Solutions,Information Technology,cap,Country,IPO,Year,Sector,Industry
+MSCI,MSCI,Financials,cap,Country,IPO,Year,Sector,Industry
+NDAQ,Nasdaq,Financials,cap,Country,IPO,Year,Sector,Industry
+NTAP,NetApp,Information Technology,cap,Country,IPO,Year,Sector,Industry
+NFLX,Netflix,Communication Services,cap,Country,IPO,Year,Sector,Industry
+NWL,Newell Brands,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+NEM,Newmont,Materials,cap,Country,IPO,Year,Sector,Industry
+NWSA,News Corp (Class A),Communication Services,cap,Country,IPO,Year,Sector,Industry
+NWS,News Corp (Class B),Communication Services,cap,Country,IPO,Year,Sector,Industry
+NEE,NextEra Energy,Utilities,cap,Country,IPO,Year,Sector,Industry
+NLSN,Nielsen,Industrials,cap,Country,IPO,Year,Sector,Industry
+NKE,Nike,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+NI,NiSource,Utilities,cap,Country,IPO,Year,Sector,Industry
+NDSN,Nordson,Industrials,cap,Country,IPO,Year,Sector,Industry
+NSC,Norfolk Southern,Industrials,cap,Country,IPO,Year,Sector,Industry
+NTRS,Northern Trust,Financials,cap,Country,IPO,Year,Sector,Industry
+NOC,Northrop Grumman,Industrials,cap,Country,IPO,Year,Sector,Industry
+NLOK,NortonLifeLock,Information Technology,cap,Country,IPO,Year,Sector,Industry
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+NRG,NRG Energy,Utilities,cap,Country,IPO,Year,Sector,Industry
+NUE,Nucor,Materials,cap,Country,IPO,Year,Sector,Industry
+NVDA,Nvidia,Information Technology,cap,Country,IPO,Year,Sector,Industry
+NVR,NVR,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+NXPI,NXP,Information Technology,cap,Country,IPO,Year,Sector,Industry
+ORLY,O'Reilly Automotive,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+OXY,Occidental Petroleum,Energy,cap,Country,IPO,Year,Sector,Industry
+ODFL,Old Dominion,Industrials,cap,Country,IPO,Year,Sector,Industry
+OMC,Omnicom Group,Communication Services,cap,Country,IPO,Year,Sector,Industry
+OKE,Oneok,Energy,cap,Country,IPO,Year,Sector,Industry
+ORCL,Oracle,Information Technology,cap,Country,IPO,Year,Sector,Industry
+OGN,Organon,Health Care,cap,Country,IPO,Year,Sector,Industry
+OTIS,Otis,Industrials,cap,Country,IPO,Year,Sector,Industry
+PCAR,Paccar,Industrials,cap,Country,IPO,Year,Sector,Industry
+PKG,Packaging Corporation of America,Materials,cap,Country,IPO,Year,Sector,Industry
+PARA,Paramount,Communication Services,cap,Country,IPO,Year,Sector,Industry
+PH,Parker,Industrials,cap,Country,IPO,Year,Sector,Industry
+PAYX,Paychex,Information Technology,cap,Country,IPO,Year,Sector,Industry
+PAYC,Paycom,Information Technology,cap,Country,IPO,Year,Sector,Industry
+PYPL,PayPal,Information Technology,cap,Country,IPO,Year,Sector,Industry
+PENN,Penn National Gaming,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+PNR,Pentair,Industrials,cap,Country,IPO,Year,Sector,Industry
+PEP,PepsiCo,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+PKI,PerkinElmer,Health Care,cap,Country,IPO,Year,Sector,Industry
+PFE,Pfizer,Health Care,cap,Country,IPO,Year,Sector,Industry
+PM,Philip Morris International,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+PSX,Phillips 66,Energy,cap,Country,IPO,Year,Sector,Industry
+PNW,Pinnacle West,Utilities,cap,Country,IPO,Year,Sector,Industry
+PXD,Pioneer Natural Resources,Energy,cap,Country,IPO,Year,Sector,Industry
+PNC,PNC Financial Services,Financials,cap,Country,IPO,Year,Sector,Industry
+POOL,Pool Corporation,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+PPG,PPG Industries,Materials,cap,Country,IPO,Year,Sector,Industry
+PPL,PPL,Utilities,cap,Country,IPO,Year,Sector,Industry
+PFG,Principal,Financials,cap,Country,IPO,Year,Sector,Industry
+PG,Procter & Gamble,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+PGR,Progressive,Financials,cap,Country,IPO,Year,Sector,Industry
+PLD,Prologis,Real Estate,cap,Country,IPO,Year,Sector,Industry
+PRU,Prudential,Financials,cap,Country,IPO,Year,Sector,Industry
+PEG,PSEG,Utilities,cap,Country,IPO,Year,Sector,Industry
+PTC,PTC,Information Technology,cap,Country,IPO,Year,Sector,Industry
+PSA,Public Storage,Real Estate,cap,Country,IPO,Year,Sector,Industry
+PHM,PulteGroup,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+PVH,PVH,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+QRVO,Qorvo,Information Technology,cap,Country,IPO,Year,Sector,Industry
+QCOM,Qualcomm,Information Technology,cap,Country,IPO,Year,Sector,Industry
+PWR,Quanta,Industrials,cap,Country,IPO,Year,Sector,Industry
+DGX,Quest Diagnostics,Health Care,cap,Country,IPO,Year,Sector,Industry
+RL,Ralph Lauren,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+RJF,Raymond James,Financials,cap,Country,IPO,Year,Sector,Industry
+RTX,Raytheon Technologies,Industrials,cap,Country,IPO,Year,Sector,Industry
+O,Realty Income,Real Estate,cap,Country,IPO,Year,Sector,Industry
+REG,Regency Centers,Real Estate,cap,Country,IPO,Year,Sector,Industry
+REGN,Regeneron,Health Care,cap,Country,IPO,Year,Sector,Industry
+RF,Regions,Financials,cap,Country,IPO,Year,Sector,Industry
+RSG,Republic Services,Industrials,cap,Country,IPO,Year,Sector,Industry
+RMD,ResMed,Health Care,cap,Country,IPO,Year,Sector,Industry
+RHI,Robert Half,Industrials,cap,Country,IPO,Year,Sector,Industry
+ROK,Rockwell Automation,Industrials,cap,Country,IPO,Year,Sector,Industry
+ROL,Rollins,Industrials,cap,Country,IPO,Year,Sector,Industry
+ROP,Roper,Industrials,cap,Country,IPO,Year,Sector,Industry
+ROST,Ross,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+RCL,Royal Caribbean Group,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+SPGI,S&P Global,Financials,cap,Country,IPO,Year,Sector,Industry
+CRM,Salesforce,Information Technology,cap,Country,IPO,Year,Sector,Industry
+SBAC,SBA Communications,Real Estate,cap,Country,IPO,Year,Sector,Industry
+SLB,Schlumberger,Energy,cap,Country,IPO,Year,Sector,Industry
+STX,Seagate,Information Technology,cap,Country,IPO,Year,Sector,Industry
+SEE,Sealed Air,Materials,cap,Country,IPO,Year,Sector,Industry
+SRE,Sempra,Utilities,cap,Country,IPO,Year,Sector,Industry
+NOW,ServiceNow,Information Technology,cap,Country,IPO,Year,Sector,Industry
+SHW,Sherwin-Williams,Materials,cap,Country,IPO,Year,Sector,Industry
+SBNY,Signature Bank,Financials,cap,Country,IPO,Year,Sector,Industry
+SPG,Simon,Real Estate,cap,Country,IPO,Year,Sector,Industry
+SWKS,Skyworks,Information Technology,cap,Country,IPO,Year,Sector,Industry
+SJM,Smucker,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+SNA,Snap-on,Industrials,cap,Country,IPO,Year,Sector,Industry
+SEDG,SolarEdge,Information Technology,cap,Country,IPO,Year,Sector,Industry
+SO,Southern Company,Utilities,cap,Country,IPO,Year,Sector,Industry
+LUV,Southwest Airlines,Industrials,cap,Country,IPO,Year,Sector,Industry
+SWK,Stanley Black & Decker,Industrials,cap,Country,IPO,Year,Sector,Industry
+SBUX,Starbucks,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+STT,State Street,Financials,cap,Country,IPO,Year,Sector,Industry
+STE,Steris,Health Care,cap,Country,IPO,Year,Sector,Industry
+SYK,Stryker,Health Care,cap,Country,IPO,Year,Sector,Industry
+SIVB,SVB Financial,Financials,cap,Country,IPO,Year,Sector,Industry
+SYF,Synchrony,Financials,cap,Country,IPO,Year,Sector,Industry
+SNPS,Synopsys,Information Technology,cap,Country,IPO,Year,Sector,Industry
+SYY,Sysco,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+TMUS,T-Mobile,Communication Services,cap,Country,IPO,Year,Sector,Industry
+TROW,T. Rowe Price,Financials,cap,Country,IPO,Year,Sector,Industry
+TTWO,Take-Two Interactive,Communication Services,cap,Country,IPO,Year,Sector,Industry
+TPR,Tapestry,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+TGT,Target,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+TEL,TE Connectivity,Information Technology,cap,Country,IPO,Year,Sector,Industry
+TDY,Teledyne,Industrials,cap,Country,IPO,Year,Sector,Industry
+TFX,Teleflex,Health Care,cap,Country,IPO,Year,Sector,Industry
+TER,Teradyne,Information Technology,cap,Country,IPO,Year,Sector,Industry
+TSLA,Tesla,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+TXN,Texas Instruments,Information Technology,cap,Country,IPO,Year,Sector,Industry
+TXT,Textron,Industrials,cap,Country,IPO,Year,Sector,Industry
+TMO,Thermo Fisher Scientific,Health Care,cap,Country,IPO,Year,Sector,Industry
+TJX,TJX Companies,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+TSCO,Tractor Supply,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+TT,Trane Technologies,Industrials,cap,Country,IPO,Year,Sector,Industry
+TDG,TransDigm,Industrials,cap,Country,IPO,Year,Sector,Industry
+TRV,Travelers,Financials,cap,Country,IPO,Year,Sector,Industry
+TRMB,Trimble,Information Technology,cap,Country,IPO,Year,Sector,Industry
+TFC,Truist,Financials,cap,Country,IPO,Year,Sector,Industry
+TWTR,Twitter,Communication Services,cap,Country,IPO,Year,Sector,Industry
+TYL,Tyler Technologies,Information Technology,cap,Country,IPO,Year,Sector,Industry
+TSN,Tyson,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+USB,U.S. Bank,Financials,cap,Country,IPO,Year,Sector,Industry
+UDR,UDR,Real Estate,cap,Country,IPO,Year,Sector,Industry
+ULTA,Ulta Beauty,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+UAA,Under Armour (Class A),Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+UA,Under Armour (Class C),Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+UNP,Union Pacific,Industrials,cap,Country,IPO,Year,Sector,Industry
+UAL,United Airlines,Industrials,cap,Country,IPO,Year,Sector,Industry
+UPS,United Parcel Service,Industrials,cap,Country,IPO,Year,Sector,Industry
+URI,United Rentals,Industrials,cap,Country,IPO,Year,Sector,Industry
+UNH,UnitedHealth Group,Health Care,cap,Country,IPO,Year,Sector,Industry
+UHS,Universal Health Services,Health Care,cap,Country,IPO,Year,Sector,Industry
+VLO,Valero,Energy,cap,Country,IPO,Year,Sector,Industry
+VTR,Ventas,Real Estate,cap,Country,IPO,Year,Sector,Industry
+VRSN,Verisign,Information Technology,cap,Country,IPO,Year,Sector,Industry
+VRSK,Verisk,Industrials,cap,Country,IPO,Year,Sector,Industry
+VZ,Verizon,Communication Services,cap,Country,IPO,Year,Sector,Industry
+VRTX,Vertex,Health Care,cap,Country,IPO,Year,Sector,Industry
+VFC,VF Corporation,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+VTRS,Viatris,Health Care,cap,Country,IPO,Year,Sector,Industry
+VICI,Vici,Real Estate,cap,Country,IPO,Year,Sector,Industry
+V,Visa,Information Technology,cap,Country,IPO,Year,Sector,Industry
+VNO,Vornado Realty Trust,Real Estate,cap,Country,IPO,Year,Sector,Industry
+VMC,Vulcan Materials,Materials,cap,Country,IPO,Year,Sector,Industry
+WAB,Wabtec,Industrials,cap,Country,IPO,Year,Sector,Industry
+WBA,Walgreens Boots Alliance,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+WMT,Walmart,Consumer Staples,cap,Country,IPO,Year,Sector,Industry
+WBD,Warner Bros. Discovery,Communication Services,cap,Country,IPO,Year,Sector,Industry
+WM,Waste Management,Industrials,cap,Country,IPO,Year,Sector,Industry
+WAT,Waters,Health Care,cap,Country,IPO,Year,Sector,Industry
+WEC,WEC Energy Group,Utilities,cap,Country,IPO,Year,Sector,Industry
+WFC,Wells Fargo,Financials,cap,Country,IPO,Year,Sector,Industry
+WELL,Welltower,Real Estate,cap,Country,IPO,Year,Sector,Industry
+WST,West Pharmaceutical Services,Health Care,cap,Country,IPO,Year,Sector,Industry
+WDC,Western Digital,Information Technology,cap,Country,IPO,Year,Sector,Industry
+WRK,WestRock,Materials,cap,Country,IPO,Year,Sector,Industry
+WY,Weyerhaeuser,Real Estate,cap,Country,IPO,Year,Sector,Industry
+WHR,Whirlpool,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+WMB,Williams,Energy,cap,Country,IPO,Year,Sector,Industry
+WTW,Willis Towers Watson,Financials,cap,Country,IPO,Year,Sector,Industry
+WYNN,Wynn Resorts,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+XEL,Xcel Energy,Utilities,cap,Country,IPO,Year,Sector,Industry
+XYL,Xylem,Industrials,cap,Country,IPO,Year,Sector,Industry
+YUM,Yum! Brands,Consumer Discretionary,cap,Country,IPO,Year,Sector,Industry
+ZBRA,Zebra,Information Technology,cap,Country,IPO,Year,Sector,Industry
+ZBH,Zimmer Biomet,Health Care,cap,Country,IPO,Year,Sector,Industry
+ZION,Zions Bancorp,Financials,cap,Country,IPO,Year,Sector,Industry
+ZTS,Zoetis,Health Care,cap,Country,IPO,Year,Sector,Industry
